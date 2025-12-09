@@ -18,11 +18,9 @@ export function ContactInfo() {
           <h3 className="font-bold text-gray-900 mb-1">Chat WhatsApp</h3>
           <p className="text-gray-500 text-xs mb-3">Konfirmasi & Tanya Jawab</p>
           <p className="text-xl font-bold text-green-700 mb-2">
-            0822-7545-2267
+            0812-3456-7890
           </p>
-          <p className="text-xs text-green-600 font-medium">
-            Ustzh. Eka (Admin)
-          </p>
+          <p className="text-xs text-green-600 font-medium">Official Admin</p>
         </div>
 
         {/* Email Card */}

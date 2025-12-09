@@ -65,7 +65,7 @@ export function Footer() {
             </li>
             <li className="flex gap-3 items-center">
               <Phone className="w-5 h-5 shrink-0 text-green-500" />
-              <span>+62 822-7545-2267 (Ustzh. Eka)</span>
+              <span>+62 812-3456-7890 (Official Admin)</span>
             </li>
             <li className="flex gap-3 items-center">
               <Mail className="w-5 h-5 shrink-0 text-green-500" />

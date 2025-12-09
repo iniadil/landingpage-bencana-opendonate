@@ -10,6 +10,15 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-brand-red: #d92b2b;
+  --color-brand-dark: #0f172a;
+  --color-brand-green: #16a34a;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+  max-width: 1200px;
 }
 
 @media (prefers-color-scheme: dark) {
